@@ -2,6 +2,7 @@
 
 Soon after Ensenada I went to Chili, SICB, and PAG (in that order).  The new year is often of time to let go of lingering projects, and likely I will be doing that soon. But to bring a few pending efforts to the forefront, so that I can analyze etc here is a bit of data that is (or soon will) be coming in.
 Much of this is centered around the _Ostrea lurida_.
+
 ---
 The first batch was 2bRAD data.
 ![sheet](http://eagle.fish.washington.edu/cnidarian/skitch/Next_Gen_Seq_Library_Database_-_Google_Sheets_1C4FE9FC.png)
@@ -16,3 +17,14 @@ A quick fastqc....
 
 
 ----
+
+**We also now have a fresh set of MBD-BS..**  now out for sequencing. 
+[Pregame here](http://onsnetwork.org/kubu4/category/olympia-oyster-reciprocal-transplant/mbd-enrichment-for-sequencing-at-zymoresearch/)
+
+![pic}http://eagle.fish.washington.edu/cnidarian/skitch/MBD_Enrichment_for_Sequencing_at_ZymoResearch___Sam_s_Notebook_1C4FF251.png)
+
+---
+**And just some plain old BS** 
+![pic](http://eagle.fish.washington.edu/cnidarian/skitch/BS-seq_Libraries_for_Sequencing_at_Genewiz___Sam_s_Notebook_1C4FF20D.png)
+
+[Details](http://onsnetwork.org/kubu4/category/olympia-oyster-reciprocal-transplant/bs-seq-libraries-for-genewiz/)
