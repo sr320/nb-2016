@@ -1,0 +1,11 @@
+Feature ID	Expression values	Transcripts annotated	Detected transcripts	Exon length	Unique gene reads	Total gene reads	Unique exon reads	Total exon reads	Ratio of unique to total (exon reads)	Unique exon-exon reads	Total exon-exon reads	Unique intron-exon reads	Total intron-exon reads	Exons	Putative exons	RPKM	Median coverage	Chromosome	Chromosome region start	Chromosome region end
+CGI_10000001	9.471	1	1	351	0	31	0	31	0	0	0	0	0	1	0	9.471	0	C16582	35	385
+CGI_10000002	8.695	1	1	333	27	27	27	27	1	0	0	0	0	1	0	8.695	3	C17212	31	363
+CGI_10000003	3.763	1	1	228	5	8	5	8	0.625	0	0	0	0	1	0	3.763	1	C17316	30	257
+CGI_10000004	6.599	2	2	195	12	12	12	12	1	0	0	0	0	2	0	6.599	1	C17476	34	257
+CGI_10000005	0	1	0	192	0	0	0	0	?	0	0	0	0	1	0	0	0	C17998	196	387
+CGI_10000009	467.53	1	1	378	6	1648	6	1648	3.641E-3	0	0	0	0	1	0	467.53	16	C18346	174	551
+CGI_10000010	677.524	1	1	261	0	1649	0	1649	0	0	0	0	0	1	0	677.524	80	C18428	286	546
+CGI_10000011	12.464	1	1	456	47	53	47	53	0.887	0	0	0	0	1	0	12.464	3	C18964	203	658
+CGI_10000012	0	1	0	645	0	0	0	0	?	0	0	0	0	1	0	0	0	C18980	30	674
+CGI_10000013	11.093	1	1	522	32	54	32	54	0.593	0	0	0	0	1	0	11.093	3	C19100	160	681
