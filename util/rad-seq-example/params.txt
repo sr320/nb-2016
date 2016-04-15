@@ -38,3 +38,9 @@ c88d6m4p3                 ## 14. Prefix name for final output (no spaces)       
                        ## 36.opt.: repeat masking (def.=1='dust' method, 0=no)      (s3,s6)
                        ## 37.opt.: vsearch max threads per job (def.=6; see docs)   (s3,s6)
 ==== optional: list group/clade assignments below this line (see docs) ==================
+pop1 4 1A0,1B0,1C0,1D0 
+pop2 4 2E0,2F0,2G0,2H0 
+pop3 4 3* 
+pop1 4 1A0,1B0,1C0,1D0 
+pop2 4 2E0,2F0,2G0,2H0 
+pop3 4 3* 

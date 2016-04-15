@@ -1,0 +1,20 @@
+taxon          	nloci	f1loci	f2loci	nsites	npoly	poly
+2G0	2000	2000	2000	178001	246	0.001382
+3L0	2000	2000	2000	178003	255	0.0014326
+3J0	2000	2000	2000	178003	257	0.0014438
+1B0	2000	2000	2000	178005	267	0.0015
+2E0	2000	2000	2000	178002	226	0.0012696
+1A0	2000	2000	2000	178002	242	0.0013595
+2F0	2000	2000	2000	178002	241	0.0013539
+2H0	2000	2000	2000	178001	237	0.0013315
+3I0	2000	2000	2000	178003	231	0.0012977
+1D0	2000	2000	2000	178002	241	0.0013539
+3K0	2000	2000	2000	178001	242	0.0013595
+1C0	2000	2000	2000	178002	240	0.0013483
+
+    ## nloci = number of loci
+    ## f1loci = number of loci with >N depth coverage
+    ## f2loci = number of loci with >N depth and passed paralog filter
+    ## nsites = number of sites across f loci
+    ## npoly = number of polymorphic sites in nsites
+    ## poly = frequency of polymorphic sites
