@@ -1,9 +1,9 @@
 ==** parameter inputs for pyRAD version 3.0.64  **======================== affected step ==
 ./                        ## 1. Working directory                                 (all)
-./*.fastq.gz              ## 2. Loc. of non-demultiplexed files (if not line 18)  (s1)
+./*.fastq              ## 2. Loc. of non-demultiplexed files (if not line 18)  (s1)
 ./*.barcodes              ## 3. Loc. of barcode file (if not line 18)             (s1)
-vsearch                   ## 4. command (or path) to call vsearch (or usearch)    (s3,s6)
-muscle                    ## 5. command (or path) to call muscle                  (s3,s7)
+/Applications/bioinfo/vsearch-1.11.1-osx-x86_64/bin/vsearch                   ## 4. command (or path) to call vsearch (or usearch)    (s3,s6)
+/Applications/bioinfo/muscle3.8.31_i86darwin64                    ## 5. command (or path) to call muscle                  (s3,s7)
 TGCAG                     ## 6. Restriction overhang (e.g., C|TGCAG -> TGCAG)     (s1,s2)
 3                         ## 7. N processors (parallel)                           (all)
 6                         ## 8. Mindepth: min coverage for a cluster              (s4,s5)
