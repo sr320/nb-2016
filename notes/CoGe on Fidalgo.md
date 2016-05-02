@@ -21,3 +21,6 @@ As per [this pipeline](https://genomevolution.org/wiki/index.php/Methylation_Ana
 
 --
 
+Once complete this is all available in the [genome browser](https://genomevolution.org/coge/GenomeView.pl?gid=28863&loc=scaffold77:20000)
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/JBrowse_scaffold3680_9487__72804_1CBB0254.png" alt="JBrowse_scaffold3680_9487__72804_1CBB0254.png"/>
