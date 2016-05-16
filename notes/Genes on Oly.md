@@ -21,3 +21,7 @@ Will see what Expression Analysis does...
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1CEA66F8.png" alt="CoGe__My_Data_1CEA66F8.png"/>
 
+Some output
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1CEA6A27.png" alt="CoGe__My_Data_1CEA6A27.png"/>
+
