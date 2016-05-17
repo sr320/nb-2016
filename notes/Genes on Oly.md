@@ -25,3 +25,11 @@ Some output
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1CEA6A27.png" alt="CoGe__My_Data_1CEA6A27.png"/>
 
+This created two files and corresponding tracks: read depth and BAM alignment
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/JBrowse_scaffold5824_3156__8360_1CEA6B71.png" alt="JBrowse_scaffold5824_3156__8360_1CEA6B71.png"/>
+
+Will crank out other three libraries and soon will work on rough annotation.
+
+
+
